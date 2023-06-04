@@ -1,0 +1,24 @@
+
+
+#include <stdio.h>
+#include <stdlib.h>
+int size=10;
+
+
+
+int main()
+{
+    int arr[10]={10,20,30,40};
+    int ele,pos;
+    int size =4;
+    int ch;
+    printf("enter your choice\n");
+    printf("1.insert at position");
+    printf("2.delete");
+    printf("3.sort");
+    printf("4.display");
+    printf("enter the element you want to insert!\n");
+    scanf("%d",&ele);
+
+    return 0;
+}

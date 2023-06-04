@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653558889 source:e:\datastructure\balanced paranthesis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

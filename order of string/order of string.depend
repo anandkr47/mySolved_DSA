@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653116295 source:e:\datastructure\order of string\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

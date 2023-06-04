@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652441874 source:e:\datastructure\stringsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652095292 source:e:\datastructure\duplicate aary\main.c
+	<stdio.h>
+	<stdlib.h>
+

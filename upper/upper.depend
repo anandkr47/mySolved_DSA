@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652786777 source:e:\datastructure\upper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

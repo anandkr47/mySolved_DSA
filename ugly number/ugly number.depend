@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629943078 source:e:\new folder\ugly number\main.c
+	<stdio.h>
+	<stdlib.h>
+

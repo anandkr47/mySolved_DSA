@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653038441 source:e:\datastructure\cake cherry\main.c
+	<stdio.h>
+	<stdlib.h>
+

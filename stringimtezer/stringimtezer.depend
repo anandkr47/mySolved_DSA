@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652439138 source:e:\datastructure\stringimtezer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

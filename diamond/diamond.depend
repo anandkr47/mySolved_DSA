@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628783603 source:d:\new folder\diamond\main.c
+	<stdio.h>
+	<stdlib.h>
+

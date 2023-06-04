@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628923545 source:d:\new folder\sum and product\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652525718 source:e:\datastructure\challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625382427 source:d:\new folder\triancle\main.c
+	<stdio.h>
+	<stdlib.h>
+

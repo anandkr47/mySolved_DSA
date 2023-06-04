@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652335178 source:e:\datastructure\election\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633031799 source:e:\new folder\array\functions\pointer length\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652778398 source:e:\datastructure\duplicateword\main.c
+	<stdio.h>
+	<string.h>
+

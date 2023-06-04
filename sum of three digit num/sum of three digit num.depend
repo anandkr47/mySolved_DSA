@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625295173 source:d:\new folder\sum of three digit num\main.c
+	<stdio.h>
+	<stdlib.h>
+

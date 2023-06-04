@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652188506 source:e:\datastructure\employ salary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

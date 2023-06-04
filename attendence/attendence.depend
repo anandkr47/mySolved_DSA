@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627206972 source:d:\new folder\attendence\main.c
+	<stdio.h>
+	<stdlib.h>
+

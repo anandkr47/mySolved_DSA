@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629948145 source:e:\new folder\decerium number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

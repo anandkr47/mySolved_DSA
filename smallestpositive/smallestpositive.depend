@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652520837 source:e:\datastructure\smallestpositive\main.c
+	<stdio.h>
+	<stdlib.h>
+

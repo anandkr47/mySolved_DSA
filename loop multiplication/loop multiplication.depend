@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628347332 source:d:\new folder\loop multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+

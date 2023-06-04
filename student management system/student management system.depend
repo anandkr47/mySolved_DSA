@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653305605 source:e:\datastructure\student management system\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

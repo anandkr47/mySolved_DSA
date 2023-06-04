@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652945276 source:e:\datastructure\sufixprifix string\main.c
+	<stdio.h>
+	<stdlib.h>
+

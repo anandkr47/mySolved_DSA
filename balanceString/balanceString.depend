@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653558340 source:e:\datastructure\balancestring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
